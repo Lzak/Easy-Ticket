@@ -1,3 +1,11 @@
+/*
+	Title: Interpreter
+	Description: To interperet buffer input and perform
+		appropriate actions given specific parameters.
+
+	Usage: soon...
+*/
+
 #include <cstdlib>
 #include <iostream>
 #include <cstring>
